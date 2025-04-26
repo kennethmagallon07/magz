@@ -55,7 +55,7 @@ body {
     font-size: 2rem;
     font-weight: 600;
     text-align: flex;
-    color: white;
+    color: grey;
   }
   
   .section_title span {
@@ -77,7 +77,7 @@ body {
   }
   
   .header_container p span {
-    color: white;
+    color: grey;
     padding: 0.5rem 1rem;
     background-color: orangered;
     border-radius: 5px;
@@ -87,7 +87,7 @@ body {
   .header_container h1 {
     font-size: 5rem;
     line-height: 3rem;
-    color: white;
+    color: grey;
   }
   
   .btn {
@@ -97,7 +97,7 @@ body {
     outline: none;
     border: none;
     border-radius: 5px;
-    color: white;
+    color: grey;
     background-color: orangered;
     cursor: pointer;
     transition: 0.3s;
@@ -135,7 +135,7 @@ body {
   .action_btns .video span {
     font-size: 1rem;
     font-weight: 600;
-    color: white;
+    color: grey;
   }
   
   .action_btns .video:hover .play {
@@ -157,7 +157,7 @@ body {
   }
   
   .about {
-    color: white;
+    color: grey;
   }
   
   .about__container {
@@ -184,7 +184,7 @@ body {
   .section__title {
     font-size: 2rem;
     font-weight: 600;
-    color: white;
+    color: grey;
     justify-self: center;
   }
   
@@ -201,7 +201,7 @@ body {
   }
   
   .service {
-    color: white;
+    color: grey;
   }
   
   .table__data {
@@ -223,7 +223,7 @@ body {
   }
   
   .project {
-    color: white;
+    color: grey;
   }
   
    .table__picture {
@@ -234,7 +234,7 @@ body {
   }
   
   .contact {
-    color: white;
+    color: grey;
   }
   
   .contact__container {
